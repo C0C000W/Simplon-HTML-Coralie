@@ -1,0 +1,38 @@
+#menu {
+	background-color: #000000;
+	height:8em;
+	color:#fff;
+	width:;
+}
+
+#page {
+	float: right;
+	background-color: #7FFFD4;
+	height: 6em;
+
+}
+
+#entete {
+	float: right;
+	background-color: #7FFFD4;
+	height: 6em;
+
+}
+
+#contenu {
+	background-color: #7FFFD4;
+	height: 6em;
+
+}
+
+#image {
+	background-color: #7FFFD4;
+	height: 6em;
+
+}
+
+#texte {
+	float: right;
+	background-color: #7FFFD4;
+	height: 6em;
+}
